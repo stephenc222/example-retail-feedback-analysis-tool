@@ -1,0 +1,8 @@
+.env
+google_credentials.json
+*__pycache__*
+
+logs*
+
+client/node_modules
+client/build
