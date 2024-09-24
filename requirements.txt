@@ -1,0 +1,12 @@
+google-generativeai
+python-dotenv
+ffmpeg-python
+librosa
+noisereduce
+numpy
+soundfile
+pydub
+spacy
+opencv-python
+Pillow
+flask
