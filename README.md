@@ -5,8 +5,8 @@
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-repo/retail-feedback-analysis.git
-   cd retail-feedback-analysis
+   git clone git@github.com:stephenc222/example-retail-feedback-analysis-tool.git
+   cd example-retail-feedback-analysis-tool
    ```
 
 2. Cd into the feedback_tool directory
